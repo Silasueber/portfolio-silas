@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌍 Silas Ueberschaer — Developer Portfolio
 
-## Getting Started
+Welcome to the personal portfolio of **Silas Ueberschaer**, a frontend-leaning fullstack developer passionate about building intuitive, real-time, and user-centered web applications.
 
-First, run the development server:
+This site showcases my work, projects, and experience — from real-time dashboards and AI systems to creative platforms like Peepo.live and community tools like Rettungshundle.de.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+> **Live Site:** [https://yourdomain.dev](https://yourdomain.dev)  
+> **Resume:** [Download my resume](./public/Silas_Ueberschaer_Optimized_Resume.docx)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🧠 About Me
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+I'm a developer with a background in logistics, AI, and product-oriented teams. I’ve worked with companies like **Airbus**, **Hermes**, and **Fraunhofer CML**, gaining experience in both agile workflows and large-scale systems. I recently completed my M.Sc. in Computer Science at the University of Hamburg.
 
-## Learn More
+Outside of coding, I’m into **running**, **badminton** and **sewing**.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This portfolio is built with:
 
-## Deploy on Vercel
+- **Next.js** (React Framework)
+- **TypeScript**
+- **Tailwind CSS**
+- **Vercel** for deployment
+- Modular components & fully responsive design
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<!-- ---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📂 Sections
+
+- `components/` – Reusable UI elements (Hero, Navbar, ProjectCard, etc.)
+- `pages/` – Main page structure (index, about, contact)
+- `public/` – Images, resume, and static files
+- `styles/` – Tailwind CSS configuration
+
+--- -->
+
+## 🧩 Featured Projects
+
+| Project         | Description |
+|----------------|-------------|
+| **Peepo.live** | A Twitch-integrated platform for streamers to collect and review user-submitted content, built with React and WebSockets |
+| **Rettungshundle.de** | A Wordle-style adoption tool for shelter dogs using Next.js and Vercel |
+| **FlightGlobe** *(Coming Soon)* | A 3D globe that displays real-time flights over your current location using the OpenSky API |
+
+---
+
+## 📫 Contact
+
+If you'd like to collaborate, discuss frontend tools, or just say hi — feel free to reach out:
+
+- **Email**: silas.ueberschaer@gmx.de  
+- **GitHub**: [github.com/Silasueber](https://github.com/Silasueber)  
+- **LinkedIn**: [https://www.linkedin.com/in/silas-ueberschaer-612b13115/](https://www.linkedin.com/in/silas-ueberschaer-612b13115/)
+
+---
+
+## 📝 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
