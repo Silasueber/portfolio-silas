@@ -4,7 +4,7 @@ Welcome to the personal portfolio of **Silas Ueberschaer**, a frontend-leaning f
 
 This site showcases my work, projects, and experience — from real-time dashboards and AI systems to creative platforms like Peepo.live and community tools like Rettungshundle.de.
 
-> **Live Site:** [https://silasueberschaer.de](https://silasueberschaer.de)  
+> **Live Site:** [https://www.silasueberschaer.de](https://silasueberschaer.de)  
 > **Resume:** [Download my resume](./public/Silas_Ueberschaer_CV.pdf)
 
 ---
