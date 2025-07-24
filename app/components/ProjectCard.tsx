@@ -1,6 +1,14 @@
 import Image from 'next/image';
 
-export default function ProjectCard({title, tagline, description, image, link}) {
+type ProjectCardProps = {
+  title: string;
+  tagline: string;
+  description: string;
+  image: string;
+  link: string;
+};
+
+export default function ProjectCard({title, tagline, description, image, link}: ProjectCardProps) {
   return (
     <a href={link} target='_blank'>
     <div className="flex gap-8 items-center">
