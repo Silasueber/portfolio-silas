@@ -7,7 +7,7 @@ export default function Hero() {
   return (
     <section className="pt-20 px-6 text-center">
       <div className="items-center align-middle h-fit mb-12 flex justify-center gap-9">
-        <h1 className="text-5xl font-bold">Hi, I'm Silas</h1>
+        <h1 className="text-5xl font-bold">Hi, I&rsquo;m Silas</h1>
         <div className="relative">
             <Image
             src="/silas_head.png"
